@@ -1,0 +1,5 @@
+-> It's Basically Nothing But Add , Update and Delete Operation Using :-
+-> Java Based Web Application
+-> Technology :- EJB , JPA , JDBC
+-> Database :- MySQL
+-> Software :- Netbeans , MySql WorkBench (Any Mysql Databse Software)
